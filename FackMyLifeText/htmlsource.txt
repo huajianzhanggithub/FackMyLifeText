@@ -1,0 +1,8087 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+糗百24小时新糗事 - 糗事百科
+</title>
+<meta name="applicable-device"content="mobile">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta http-equiv="Cache-Control" content="no-transform" />
+
+
+
+
+<meta name="keywords" content="" />
+
+
+<meta name="description" content="糗事百科官网提供24小时糗搞笑笑话，糗百24小时内新糗事就只在糗事百科官网24小时专题，囊括恶搞、尴尬糗事精华，快乐减压！"/>
+
+
+<link rel="stylesheet" href="//static.qiushibaike.com/css/dist/touch/v3/index.min.css?v=02e16a19ad51e7421c94789fee8e884f"/>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?743362d4b71e22775786fbc54283175c";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+// 收集运营上缓存证据
+window.config = {
+'user_time': '2019-05-26 17:16:28',
+'version': '2017-09-04 14:36',
+'bj': 'False',
+}
+</script>
+</head>
+<body class="body_night">
+
+
+
+<header>
+<div id="suspension" class="hide">
+<img src="//static.qiushibaike.com/images/touch_v3/yuedu/suspension3@3x.png?v=bf588f5e6fadc9694ca47a725fd1664b" alt="">
+</div>
+<div id="logoBar">
+<div class="logo">
+<a href="/" onclick="_hmt.push(['_trackEvent', 'qiushi_logo', 'chick']);"></a>
+</div>
+<div class="float-nav">
+<a href="/media/" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'qiushi_top_button_02', 'chick']);">视频</a>
+<a href="/news/" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'qiushi_top_button_03', 'chick']);">排行榜</a>
+</div>
+</div>
+<nav class="top-bar clearfix">
+<a href="/" class="" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_qiushi', 'chick']);">
+糗事
+</a>
+<a href="/hot/" class="" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_24xiaoshi', 'chick']);">
+24小时
+</a>
+<a href="/imgrank/" class="" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_retu', 'chick']);">
+热图
+</a>
+<a href="/text/" class="active" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_chunwen', 'chick']);">
+纯文
+</a>
+<a href="/history/" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_chuanyue', 'chick']);">
+穿越
+</a>
+<a href="/gif/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_gif', 'chick']); ">GIF</a>
+<!--<a href="https://www.qiushibaike.com/gif/6.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_meinvtu', 'chick']); ">美女图</a>-->
+<!--<a href="/gif/6.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_xiee', 'chick']); ">邪恶</a>-->
+<a href="/news/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_remen', 'chick']); ">热门</a>
+<a href="/gif/1.html" ref="nofollow" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_gaoxiao', 'chick']); ">搞笑</a>
+<a href="/img/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_tupian', 'chick']); ">图片</a>
+<!--<a href="/img/0.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_xiezhenji', 'chick']); ">写真集</a>-->
+<a href="/media/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_shipin', 'chick']); ">视频</a>
+<a href="/media/60000/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_meinv', 'chick']); ">美女</a>
+<a href="/media/30000/" ref="nofollow" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_egao', 'chick']); ">恶搞</a>
+</nav>
+<a href="https://toutiao.qiushibaike.com/yuedu/activity/alipayLession/?ref=touch">
+<img src="//static.qiushibaike.com/images/touch_v3/banner_alipay.png?v=f6bf4e4abbd2363d33e200ba777908f4" alt="" class="banner" style="width: 100%; border-bottom: 10px solid #F7F7F7">
+</a>
+</header>
+
+
+
+
+<!-- 文章列表 -->
+<main data-pagenum="12">
+
+<script type="text/javascript">
+var UA = window.navigator.userAgent.toLowerCase();
+var HREF = window.location.href;
+function injectAds(parentEle, jsSrc) {
+var sNew = document.createElement('script');
+sNew.async = true;
+sNew.src = jsSrc;
+parentEle.appendChild(sNew);
+}
+function getPlatform(UA) {
+if (/(iphone)\D+(\d[\d.]*)/.test(UA)) {
+return 'iphone'
+} else {
+return 'android'
+}
+}
+function getChannel(name) {
+var reg = new RegExp('(^|&)'+ name +'=([^&]*)(&|$)', 'i');
+var r = window.location.search.substr(1).match(reg);
+if (r != null) {
+return unescape(r[2]);
+}
+return 'all';
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_long_0">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/19459659/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1945/19459659/thumb/20180814212146.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/19459659/" class="username" ref="nofollow">南九</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">103</i>
+</div>
+</header>
+
+<a href="/article/121832586" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-first', 'chick']);">
+
+
+单位组织篮球比赛，除了参赛选手，其他人都坐在球场四周的椅子上呐喊助威。<br/>咯咯咯......<br/>我对篮球没兴趣，只是跟着大家喊口号。有选手进球的时候，大家喊:好！我也跟着鼓掌呐喊:好！再来一个！<br/>打了两节以后，越来越没意思，我就低头玩手机，正入迷，突然球场一阵骚乱，我急忙放下手机站起来，鼓掌喊道:好！再来一个！<br/>突然发现领导捂着脑袋斜眼看我，大家也都张大嘴巴盯着
+…
+
+
+<span class="fullArtitle" >查看全文</span>
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121832586" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">石头，剪刀，破布：</span>
+<span class="text">马屁拍的好，再来一个</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+13
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">715</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">60</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">6</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_1">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/12992639/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1299/12992639/thumb/20180519105602.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/12992639/" class="username" ref="nofollow">胖香</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">101</i>
+</div>
+</header>
+
+<a href="/article/121794609" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+我姐趁她家二宝睡觉，帮我女儿洗了个澡，我感动的不得了的时候，她把刚好醒了的二宝从粑粑堆里拔出来说：“易子而洗，来吧，到你了……”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121794609" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">吃了两碗又盛：</span>
+<span class="text">按面积算，楼主赚了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+98
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3935</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">334</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">40</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">65</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_2">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/40167758/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/4016/40167758/thumb/default_avatar.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/40167758/" class="username" ref="nofollow">糗友286470</a>
+
+womenIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">0</i>
+</div>
+</header>
+
+<a href="/article/121851509" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+当时泰坦尼克号出发，我拼尽全力失声呐喊，不要启航，没一个人听我的，还骂我沙雕，最后我被电影院的保安架了出去。。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121851509" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">家有兔宝整两只：</span>
+<span class="text">废话，大家都静静地等着画画和车里的那两场戏，听你的票就白买了。</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+42
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3550</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">301</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">90</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">56</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_3">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/32757367/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3275/32757367/thumb/20190523150646.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/32757367/" class="username" ref="nofollow">春天里的象牙塔</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">29</i>
+</div>
+</header>
+
+<a href="/article/121820125" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+跟老婆吵架，她给丈母娘电话说要回娘家静静。<br/>她用了近一个小时收拾一整行李箱的衣服用品。<br/>刚推开门，老丈人背着个背包进门了。<br/>她正想询问，老丈人摆摆手道:你妈知道你闹别扭回娘家，说是女不教，父之过，把我赶出门，不教好不许回来！
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121820125" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">迦修：</span>
+<span class="text">上门维修服务，这是良心商家</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+532
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">8226</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">699</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">200</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">71</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_4">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/30581720/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3058/30581720/thumb/20151107131755.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/30581720/" class="username" ref="nofollow">烟雨寒秋</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">16</i>
+</div>
+</header>
+
+<a href="/article/117905623" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+女:被人说我很凶，你觉得我xiong么？<br/>男:你说什么？<br/>女:你看我xiong么？<br/>男:你再说一遍<br/>女:你看我xiong么？<br/>男:你要愿意给我看我就看呗（坏笑）<br/>女:滚犊子
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">232</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">19</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">0</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_5">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/41686607/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/4168/41686607/thumb/20190425151706.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/41686607/" class="username" ref="nofollow">今天砖很烫手</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">18</i>
+</div>
+</header>
+
+<a href="/article/121809815" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+高考成绩出来了，看着别人考了600多分，自己只考了200多，恨自己没用，气的我一掌拍在我的兰博基尼方向盘上，掉出了两节南孚电池……
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121809815" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">你猜8888：</span>
+<span class="text">呐，这个就很灵性了，还没滋自己就醒了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+95
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3675</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">312</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">40</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">77</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_6">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/38031580/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3803/38031580/thumb/20180727195920.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/38031580/" class="username" ref="nofollow">义行天下7</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121790202" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+小姨子还有几天就要结婚了。<br/>老婆:老公，随礼多少合适呢？<br/>我:你说多少就多少？你说了算！<br/>老婆:1000或2000，不能再少了。<br/>看我没说话，老婆一脸不高兴说:拿多少你倒是说句话呀？<br/>我看老婆生气了，我也发火了一咬牙说:1000/2000都不行！再一看老婆伸手拿起了扫把。我吼道:最低也得5000吧，这次我说了算，你也得听我的！把扫把给我放下！老婆笑着乖乖的放
+…
+
+
+<span class="fullArtitle" >查看全文</span>
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121790202" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+
+
+<span class="username">金失&amp;金华&am…：</span>
+<span class="text">小姨子一结婚你就没机会了，这5000就当分手费吧[哈哈][哈哈][哈哈]</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+158
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3204</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">272</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">100</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">104</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_7">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/33028477/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3302/33028477/thumb/20190519131353.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/33028477/" class="username" ref="nofollow">依丽若水</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121849034" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+最近股.票像过山车，前一段稍微赚点钱，不仅赔进去，本又折了百分之三十。我无计可施，网上找专 家推荐.股.票。正聊得热火朝天，老爸旁边经过，噗嗤一乐，，，<br/>：“丽丽，你是不是傻，他要知道那只赚钱。早闷葫芦发大财去了，那还有闲工夫撅着腚给你介绍股.票……”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849034" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">小燕飞1206.：</span>
+<span class="text">啥也不说了，找了个科技股，然后7块钱买进去，现在4.2块，赔了十五万了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+36
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3208</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">272</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">100</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">158</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_8">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/36134709/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3613/36134709/thumb/20180103132911.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/36134709/" class="username" ref="nofollow">风湿病孝喘砖冶</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">37</i>
+</div>
+</header>
+
+<a href="/article/121850287" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+堂弟上学总是谈恋爱，二叔一气之下揍了他一顿，他居然偷拿了家里3万块钱搞传销去了。二叔欲哭无泪，一天正在家里呆坐，来了两个社会人，确认了二叔的身份后，掏出6万块放来上说：我是传销的头目，钱退给你，外加3万，告诉我你儿子在哪？二叔慌问：他闯祸了？头目说：那小子把我妹妹拐跑了。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121850287" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">醉却江水滔滔：</span>
+<span class="text">上次我看这个段子，我还是个处男，现在我已经是两个孩子的妈了。</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+49
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2043</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">173</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">33</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_9">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/30105665/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3010/30105665/thumb/20150816123915.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/30105665/" class="username" ref="nofollow">迷迷迷离^^</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">31</i>
+</div>
+</header>
+
+<a href="/article/117906621" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+那天老衲正在高歌一曲：我就像那一只，林中的小鸟，，，，<br/>老妈过来，啪！给我一嘴巴，你特么像什么不好，偏的像临终的小鸟…………！<br/>我…………这………唉…………！
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">158</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">13</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">3</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_10">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/34975132/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3497/34975132/thumb/20190524111448.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/34975132/" class="username" ref="nofollow">-小门神~</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">20</i>
+</div>
+</header>
+
+<a href="/article/121848660" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+和老爹吵了一架，老爹叫我滚蛋，我说滚就滚，以后都不会回来了。<br/>过了不久，我走出房门。老爹坐在客厅椅子上，他看着我手上拿的行李，我想到老爹刚才叫我滚蛋的狠话！<br/>爷俩沉默了一会儿，几乎异口同声地问对方:你刚才跟我开玩笑的吧？<br/>额。。。。。。”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848660" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">多年以后你和谁：</span>
+<span class="text">可能是真的</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+31
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3043</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">258</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">40</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">49</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_11">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/7853731/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/785/7853731/thumb/20190422145024.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/7853731/" class="username" ref="nofollow">卓然鞋贸</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">27</i>
+</div>
+</header>
+
+<a href="/article/121849563" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+一天有人问我：“兄弟你撒过最大的谎是什么？”我答：“我已阅读并同意用户协议”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849563" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">庭院sssjx：</span>
+<span class="text">这种固定的协议，不管怎么样都得点同意，不同意就退出，洋洋洒洒一大篇，谁去仔细看啊</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+50
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2803</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">238</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">100</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">29</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_12">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/38703768/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3870/38703768/thumb/20190409090527.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/38703768/" class="username" ref="nofollow">谈恋爱的火龙果</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">19</i>
+</div>
+</header>
+
+<a href="/article/121793118" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+一美女去看医生！ 医生：哪里不舒服？ 美女：嗓子疼！医生：是不是来月经了？ 美女娇羞的答到：嗯
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121793118" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">放飞的柔情：</span>
+<span class="text">一个女人一张口，
+无理要求要说否。
+一味放纵日了狗，
+嗓子疼痛有没有！</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+29
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2554</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">217</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">190</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">66</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_13">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/31031076/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3103/31031076/thumb/20180113103616.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/31031076/" class="username" ref="nofollow">夕冬温存</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121849856" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+女儿不肯写作业，一会要喝水，一会要吃东西，拖拖拉拉两个小时才写了几个字。<br/>一巴掌过去，现在写了满满两页纸了。<br/>非物质文化遗产还是蛮好的。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849856" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">苦笑一生：</span>
+<span class="text">家庭暴力都被你说的这么高大上了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+99
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5634</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">478</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">210</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">90</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_14">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/10198432/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1019/10198432/thumb/20150817155320.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/10198432/" class="username" ref="nofollow">辣椒面进眼睛了</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">31</i>
+</div>
+</header>
+
+<a href="/article/117906235" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+我们一群朋友都爱侃大山……割不了，我是宝妈一枚……昨天过生日，大伙在一起吃饭。我二哥总逗我同学，说她长的高大威猛！我同学说，我乐意，高大威猛。总比你好，老了人家都拄拐杖！你直接拄个牙签就能出去。哎哟，老同学你是组织里的人儿啊？这语言真犀利。
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">294</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">24</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">3</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_15">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/26217894/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2621/26217894/thumb/20190429104139.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/26217894/" class="username" ref="nofollow">聊天不撩妹子的</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">54</i>
+</div>
+</header>
+
+<a href="/article/121849246" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+群里都在聊，找对象一定同年代的，不然会有代沟，我说不大可能的，并且我跟他说我是六五年的老婆七二年的。<br/>群里有个正在闹离婚的女的说：他们家代沟就很严重，说他们两人总是想不到一起去，正准备离婚了。<br/>/有人问她两口子隔几个年代的。<br/>她回说：老公是八九年的，她是九零年的。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849246" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">聊天不撩妹子的：</span>
+<span class="text">这理由。。。服了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+45
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">1981</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">168</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">50</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">49</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_16">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/41811216/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/4181/41811216/thumb/20190510213757.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/41811216/" class="username" ref="nofollow">不喜欢洗锅</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">18</i>
+</div>
+</header>
+
+<a href="/article/121848967" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+女同事，最近在晨练，竟然坚持一个月了！我表示非常吃惊，问：你平时那么懒，是什么动力让你坚持下去的？<br/>吃货同事叹口气：哎！我不锻炼不行啊！小肚子上的肉肉太多,和老公啪啪时,他都是闭着眼睛，一副英勇就义的表情……
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848967" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">瞄亻凤：</span>
+<span class="text">大家都是成年人了，说话尽量色情点</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+185
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5320</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">452</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">200</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">83</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_17">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/26217894/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2621/26217894/thumb/20190429104139.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/26217894/" class="username" ref="nofollow">聊天不撩妹子的</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">54</i>
+</div>
+</header>
+
+<a href="/article/121849059" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+老婆刚拿驾照那会，去菜市场买菜都要开车去，而菜市场离住的地方不会超过六百米。<br/>有一次我从外面回家，刚停车她跑过来让我别熄火。<br/>把我从车上拉下来了，她上车说去买菜去，然后就见她手刹没放空挡踩油门，那车震的，特别是烟把车都要照上了。<br/>就见她推开车门，一把从地上拖着我就跑，嘴里还大声叫：老公快起来跑，车要爆炸了。。。。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849059" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">君糗我未糗，我糗不喝酒：</span>
+<span class="text">要爆炸了还记得拖着你跑，绝对是真爱，好好珍惜</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+184
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3123</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">265</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">150</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">53</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_18">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/16168389/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1616/16168389/thumb/20190519220413.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/16168389/" class="username" ref="nofollow">爱泡泡的｜胡子哥</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">37</i>
+</div>
+</header>
+
+<a href="/article/121851023" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+今天天热，脱了个光膀子。儿子要看我的肌肉，我给他秀了个二头肌、三角肌。然后一用力，爆出了一对胸肌。<br/>儿子睁大眼睛，感叹到“太厉害了！比妈妈的还大！这就叫隆胸吗？”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121851023" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">猪猪家的大猪头：</span>
+<span class="text">楼主抹了一把辛酸泪说道:儿砸，其实我才是你妈</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+43
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">1972</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">167</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">31</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_19">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/32144663/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3214/32144663/thumb/20170430122941.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/32144663/" class="username" ref="nofollow">尼古拉斯·屌爆</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">20</i>
+</div>
+</header>
+
+<a href="/article/117905068" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+发个不是糗事的糗事，今天去车管所处理违章，人山人海，我排在后面，听见前面一大哥问：“我扣多少分”当工作人员报出136分的时候，我惊呆了。大厅里的人顿时沸腾了。人才啊。
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">350</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">29</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">29</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_20">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/5115401/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/511/5115401/thumb/201608212252105.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/5115401/" class="username" ref="nofollow">舌尖上的阴帝</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121849310" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+儿子越来越大，问题也越来越多。早上带他去买菜；他：爸爸，那是什么？我：吊机。 儿子：那么高哈，吊机做什么的？我：吊东西的。儿子：吊什么东西哈？ 我：沙子。 儿子：沙子做什么的？ 我：建房子。儿子：建房子做什么？我已经忍不住想揍他一顿
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849310" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">晕还是要注册啊：</span>
+<span class="text">肤浅啊你们  孩子正处于探索世界的阶段</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+21
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2523</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">214</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">50</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">74</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_21">
+
+
+<header>
+<!-- 匿名用户或未发表文章 -->
+<a href="javascript:;" class="avatar" style="background-image: url(//static.qiushibaike.com/images/thumb/anony.png?v=b61e7f5162d14b7c0d5f419cd6649c87);" alt="匿名用户"></a>
+<a href="javascript:;" class="username" alt="匿名用户">匿名用户</a>
+<!-- <div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">21</i>
+</div> -->
+</header>
+
+<a href="/article/121789404" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+拉屎的时候被蚊子叮了老二，这尼玛给我难受的，我恨死蚊子了。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121789404" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">不要变态：</span>
+<span class="text">笑什么笑，都肿成火柴棍了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+101
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">1934</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">164</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">30</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">101</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_22">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/37873753/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3787/37873753/thumb/2018041609440946.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/37873753/" class="username" ref="nofollow">邓闲</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">18</i>
+</div>
+</header>
+
+<a href="/article/121849320" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+今天有点感冒去打针，护士妹子特别漂亮，于是我开始嘴贱：你快点来喔，我在床上等你！<br/>护士妹子一顿，瞬间微笑：好啊，好啊！到时候你可别叫啊！<br/>你们猜猜，我今天挨了几针？
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849320" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">昵称就这个：</span>
+<span class="text">只要扎回去，挨几针都行</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+31
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3066</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">260</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">30</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">55</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_23">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/20053149/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2005/20053149/thumb/20190513165251.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/20053149/" class="username" ref="nofollow">小爷复姓欧阳诺①</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">22</i>
+</div>
+</header>
+
+<a href="/article/121848434" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+公司来了一个PL妹子，慢慢熟悉了，有次看见公司没有几个人，我抽出一张红票子:“小妞，给爷唱个十八摸，这钱就是你的。”<br/>妹子:“爷自重，我不卖艺。”<br/>我该这么说？
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848434" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">ybh12003：</span>
+<span class="text">那小妞，卖个身吧</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+72
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3866</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">328</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">90</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">124</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_24">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/32915780/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3291/32915780/thumb/2016110318235510.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/32915780/" class="username" ref="nofollow">轶思</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">20</i>
+</div>
+</header>
+
+<a href="/article/117905369" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+刚刚走在路上，一个奶奶带着孙女，奶奶说，还喝酸奶，作业不完成还喝酸奶？吓得我赶紧把手上的果汁一口气吸完了
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">220</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">18</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">0</i></div>
+</div>
+</article>
+
+
+
+
+
+
+</main>
+
+<div class="common-loader hide">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+<div id="tips-box" class="hide">
+<div class="tips">
+<i class="icon icon-cring"></i>
+<span>没有更多数据了，请手动刷新当前网页</span>
+</div>
+<a href="#" class="refresh">点击刷新</a>
+</div>
+
+
+
+<!-- footer -->
+<footer id="footerBox">
+<p class="text1">请使用当前浏览器底部中间的“<strong>添加书签</strong>”功能进行收藏</p>
+<p class="text2"><strong>糗事百科</strong>-超搞笑的原创糗事笑话分享社区</p>
+</footer>
+
+
+
+<!-- 回到顶部按钮 -->
+<div id="floatBtn">
+<a href="javascript:void()" class="bxtt-pocket hide"></a>
+<a href="javascript:void()" class="game hide" rel="nofollow"></a>
+<a href="/new4/suggest" class="feedback" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'touch-qiushi-list-suggest', 'chick']); "></a>
+<a href="javascript:;" class="goTop" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'touch-qiushi-list-back-top', 'chick']); "></a>
+</div>
+
+
+
+<script type="text/javascript" src="https://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">
+window.broadJson = '[]'
+</script>
+<script type="text/javascript" src="//static.qiushibaike.com/js/dist/touch/v3/text.min.js?v=496928314419cb8e832896cf625c7546"></script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-8780108-10', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+
+
+</body>
+</html><!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+糗百24小时新糗事 - 糗事百科
+</title>
+<meta name="applicable-device"content="mobile">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta http-equiv="Cache-Control" content="no-transform" />
+
+
+
+
+<meta name="keywords" content="" />
+
+
+<meta name="description" content="糗事百科官网提供24小时糗搞笑笑话，糗百24小时内新糗事就只在糗事百科官网24小时专题，囊括恶搞、尴尬糗事精华，快乐减压！"/>
+
+
+<link rel="stylesheet" href="//static.qiushibaike.com/css/dist/touch/v3/index.min.css?v=02e16a19ad51e7421c94789fee8e884f"/>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?743362d4b71e22775786fbc54283175c";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+// 收集运营上缓存证据
+window.config = {
+'user_time': '2019-05-26 17:19:13',
+'version': '2017-09-04 14:36',
+'bj': 'False',
+}
+</script>
+</head>
+<body class="body_night">
+
+
+
+<header>
+<div id="suspension" class="hide">
+<img src="//static.qiushibaike.com/images/touch_v3/yuedu/suspension3@3x.png?v=bf588f5e6fadc9694ca47a725fd1664b" alt="">
+</div>
+<div id="logoBar">
+<div class="logo">
+<a href="/" onclick="_hmt.push(['_trackEvent', 'qiushi_logo', 'chick']);"></a>
+</div>
+<div class="float-nav">
+<a href="/media/" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'qiushi_top_button_02', 'chick']);">视频</a>
+<a href="/news/" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'qiushi_top_button_03', 'chick']);">排行榜</a>
+</div>
+</div>
+<nav class="top-bar clearfix">
+<a href="/" class="" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_qiushi', 'chick']);">
+糗事
+</a>
+<a href="/hot/" class="" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_24xiaoshi', 'chick']);">
+24小时
+</a>
+<a href="/imgrank/" class="" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_retu', 'chick']);">
+热图
+</a>
+<a href="/text/" class="active" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_chunwen', 'chick']);">
+纯文
+</a>
+<a href="/history/" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_chuanyue', 'chick']);">
+穿越
+</a>
+<a href="/gif/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_gif', 'chick']); ">GIF</a>
+<!--<a href="https://www.qiushibaike.com/gif/6.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_meinvtu', 'chick']); ">美女图</a>-->
+<!--<a href="/gif/6.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_xiee', 'chick']); ">邪恶</a>-->
+<a href="/news/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_remen', 'chick']); ">热门</a>
+<a href="/gif/1.html" ref="nofollow" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_gaoxiao', 'chick']); ">搞笑</a>
+<a href="/img/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_tupian', 'chick']); ">图片</a>
+<!--<a href="/img/0.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_xiezhenji', 'chick']); ">写真集</a>-->
+<a href="/media/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_shipin', 'chick']); ">视频</a>
+<a href="/media/60000/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_meinv', 'chick']); ">美女</a>
+<a href="/media/30000/" ref="nofollow" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_egao', 'chick']); ">恶搞</a>
+</nav>
+<a href="https://toutiao.qiushibaike.com/yuedu/activity/alipayLession/?ref=touch">
+<img src="//static.qiushibaike.com/images/touch_v3/banner_alipay.png?v=f6bf4e4abbd2363d33e200ba777908f4" alt="" class="banner" style="width: 100%; border-bottom: 10px solid #F7F7F7">
+</a>
+</header>
+
+
+
+
+<!-- 文章列表 -->
+<main data-pagenum="12">
+
+<script type="text/javascript">
+var UA = window.navigator.userAgent.toLowerCase();
+var HREF = window.location.href;
+function injectAds(parentEle, jsSrc) {
+var sNew = document.createElement('script');
+sNew.async = true;
+sNew.src = jsSrc;
+parentEle.appendChild(sNew);
+}
+function getPlatform(UA) {
+if (/(iphone)\D+(\d[\d.]*)/.test(UA)) {
+return 'iphone'
+} else {
+return 'android'
+}
+}
+function getChannel(name) {
+var reg = new RegExp('(^|&)'+ name +'=([^&]*)(&|$)', 'i');
+var r = window.location.search.substr(1).match(reg);
+if (r != null) {
+return unescape(r[2]);
+}
+return 'all';
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_long_0">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/19459659/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1945/19459659/thumb/20180814212146.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/19459659/" class="username" ref="nofollow">南九</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">103</i>
+</div>
+</header>
+
+<a href="/article/121832586" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-first', 'chick']);">
+
+
+单位组织篮球比赛，除了参赛选手，其他人都坐在球场四周的椅子上呐喊助威。<br/>咯咯咯......<br/>我对篮球没兴趣，只是跟着大家喊口号。有选手进球的时候，大家喊:好！我也跟着鼓掌呐喊:好！再来一个！<br/>打了两节以后，越来越没意思，我就低头玩手机，正入迷，突然球场一阵骚乱，我急忙放下手机站起来，鼓掌喊道:好！再来一个！<br/>突然发现领导捂着脑袋斜眼看我，大家也都张大嘴巴盯着
+…
+
+
+<span class="fullArtitle" >查看全文</span>
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121832586" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">石头，剪刀，破布：</span>
+<span class="text">马屁拍的好，再来一个</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+13
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">715</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">60</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">6</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_1">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/12992639/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1299/12992639/thumb/20180519105602.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/12992639/" class="username" ref="nofollow">胖香</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">101</i>
+</div>
+</header>
+
+<a href="/article/121794609" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+我姐趁她家二宝睡觉，帮我女儿洗了个澡，我感动的不得了的时候，她把刚好醒了的二宝从粑粑堆里拔出来说：“易子而洗，来吧，到你了……”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121794609" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">吃了两碗又盛：</span>
+<span class="text">按面积算，楼主赚了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+98
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3935</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">334</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">40</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">65</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_2">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/40167758/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/4016/40167758/thumb/default_avatar.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/40167758/" class="username" ref="nofollow">糗友286470</a>
+
+womenIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">0</i>
+</div>
+</header>
+
+<a href="/article/121851509" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+当时泰坦尼克号出发，我拼尽全力失声呐喊，不要启航，没一个人听我的，还骂我沙雕，最后我被电影院的保安架了出去。。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121851509" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">家有兔宝整两只：</span>
+<span class="text">废话，大家都静静地等着画画和车里的那两场戏，听你的票就白买了。</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+42
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3550</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">301</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">90</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">56</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_3">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/32757367/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3275/32757367/thumb/20190523150646.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/32757367/" class="username" ref="nofollow">春天里的象牙塔</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">29</i>
+</div>
+</header>
+
+<a href="/article/121820125" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+跟老婆吵架，她给丈母娘电话说要回娘家静静。<br/>她用了近一个小时收拾一整行李箱的衣服用品。<br/>刚推开门，老丈人背着个背包进门了。<br/>她正想询问，老丈人摆摆手道:你妈知道你闹别扭回娘家，说是女不教，父之过，把我赶出门，不教好不许回来！
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121820125" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">迦修：</span>
+<span class="text">上门维修服务，这是良心商家</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+532
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">8226</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">699</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">200</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">71</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_4">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/30581720/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3058/30581720/thumb/20151107131755.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/30581720/" class="username" ref="nofollow">烟雨寒秋</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">16</i>
+</div>
+</header>
+
+<a href="/article/117905623" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+女:被人说我很凶，你觉得我xiong么？<br/>男:你说什么？<br/>女:你看我xiong么？<br/>男:你再说一遍<br/>女:你看我xiong么？<br/>男:你要愿意给我看我就看呗（坏笑）<br/>女:滚犊子
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">232</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">19</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">0</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_5">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/41686607/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/4168/41686607/thumb/20190425151706.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/41686607/" class="username" ref="nofollow">今天砖很烫手</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">18</i>
+</div>
+</header>
+
+<a href="/article/121809815" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+高考成绩出来了，看着别人考了600多分，自己只考了200多，恨自己没用，气的我一掌拍在我的兰博基尼方向盘上，掉出了两节南孚电池……
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121809815" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">你猜8888：</span>
+<span class="text">呐，这个就很灵性了，还没滋自己就醒了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+95
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3675</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">312</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">40</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">77</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_6">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/38031580/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3803/38031580/thumb/20180727195920.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/38031580/" class="username" ref="nofollow">义行天下7</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121790202" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+小姨子还有几天就要结婚了。<br/>老婆:老公，随礼多少合适呢？<br/>我:你说多少就多少？你说了算！<br/>老婆:1000或2000，不能再少了。<br/>看我没说话，老婆一脸不高兴说:拿多少你倒是说句话呀？<br/>我看老婆生气了，我也发火了一咬牙说:1000/2000都不行！再一看老婆伸手拿起了扫把。我吼道:最低也得5000吧，这次我说了算，你也得听我的！把扫把给我放下！老婆笑着乖乖的放
+…
+
+
+<span class="fullArtitle" >查看全文</span>
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121790202" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+
+
+<span class="username">金失&amp;金华&am…：</span>
+<span class="text">小姨子一结婚你就没机会了，这5000就当分手费吧[哈哈][哈哈][哈哈]</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+158
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3204</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">272</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">100</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">104</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_7">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/33028477/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3302/33028477/thumb/20190519131353.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/33028477/" class="username" ref="nofollow">依丽若水</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121849034" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+最近股.票像过山车，前一段稍微赚点钱，不仅赔进去，本又折了百分之三十。我无计可施，网上找专 家推荐.股.票。正聊得热火朝天，老爸旁边经过，噗嗤一乐，，，<br/>：“丽丽，你是不是傻，他要知道那只赚钱。早闷葫芦发大财去了，那还有闲工夫撅着腚给你介绍股.票……”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849034" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">小燕飞1206.：</span>
+<span class="text">啥也不说了，找了个科技股，然后7块钱买进去，现在4.2块，赔了十五万了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+36
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3208</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">272</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">100</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">158</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_8">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/36134709/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3613/36134709/thumb/20180103132911.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/36134709/" class="username" ref="nofollow">风湿病孝喘砖冶</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">37</i>
+</div>
+</header>
+
+<a href="/article/121850287" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+堂弟上学总是谈恋爱，二叔一气之下揍了他一顿，他居然偷拿了家里3万块钱搞传销去了。二叔欲哭无泪，一天正在家里呆坐，来了两个社会人，确认了二叔的身份后，掏出6万块放来上说：我是传销的头目，钱退给你，外加3万，告诉我你儿子在哪？二叔慌问：他闯祸了？头目说：那小子把我妹妹拐跑了。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121850287" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">醉却江水滔滔：</span>
+<span class="text">上次我看这个段子，我还是个处男，现在我已经是两个孩子的妈了。</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+49
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2043</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">173</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">33</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_9">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/30105665/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3010/30105665/thumb/20150816123915.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/30105665/" class="username" ref="nofollow">迷迷迷离^^</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">31</i>
+</div>
+</header>
+
+<a href="/article/117906621" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+那天老衲正在高歌一曲：我就像那一只，林中的小鸟，，，，<br/>老妈过来，啪！给我一嘴巴，你特么像什么不好，偏的像临终的小鸟…………！<br/>我…………这………唉…………！
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">158</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">13</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">3</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_10">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/34975132/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3497/34975132/thumb/20190524111448.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/34975132/" class="username" ref="nofollow">-小门神~</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">20</i>
+</div>
+</header>
+
+<a href="/article/121848660" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+和老爹吵了一架，老爹叫我滚蛋，我说滚就滚，以后都不会回来了。<br/>过了不久，我走出房门。老爹坐在客厅椅子上，他看着我手上拿的行李，我想到老爹刚才叫我滚蛋的狠话！<br/>爷俩沉默了一会儿，几乎异口同声地问对方:你刚才跟我开玩笑的吧？<br/>额。。。。。。”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848660" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">多年以后你和谁：</span>
+<span class="text">可能是真的</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+31
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3043</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">258</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">40</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">49</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_11">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/7853731/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/785/7853731/thumb/20190422145024.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/7853731/" class="username" ref="nofollow">卓然鞋贸</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">27</i>
+</div>
+</header>
+
+<a href="/article/121849563" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+一天有人问我：“兄弟你撒过最大的谎是什么？”我答：“我已阅读并同意用户协议”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849563" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">庭院sssjx：</span>
+<span class="text">这种固定的协议，不管怎么样都得点同意，不同意就退出，洋洋洒洒一大篇，谁去仔细看啊</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+50
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2803</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">238</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">100</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">29</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_12">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/38703768/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3870/38703768/thumb/20190409090527.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/38703768/" class="username" ref="nofollow">谈恋爱的火龙果</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">19</i>
+</div>
+</header>
+
+<a href="/article/121793118" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+一美女去看医生！ 医生：哪里不舒服？ 美女：嗓子疼！医生：是不是来月经了？ 美女娇羞的答到：嗯
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121793118" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">放飞的柔情：</span>
+<span class="text">一个女人一张口，
+无理要求要说否。
+一味放纵日了狗，
+嗓子疼痛有没有！</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+29
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2554</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">217</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">190</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">66</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_13">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/31031076/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3103/31031076/thumb/20180113103616.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/31031076/" class="username" ref="nofollow">夕冬温存</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121849856" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+女儿不肯写作业，一会要喝水，一会要吃东西，拖拖拉拉两个小时才写了几个字。<br/>一巴掌过去，现在写了满满两页纸了。<br/>非物质文化遗产还是蛮好的。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849856" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">苦笑一生：</span>
+<span class="text">家庭暴力都被你说的这么高大上了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+99
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5634</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">478</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">210</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">90</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_14">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/10198432/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1019/10198432/thumb/20150817155320.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/10198432/" class="username" ref="nofollow">辣椒面进眼睛了</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">31</i>
+</div>
+</header>
+
+<a href="/article/117906235" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+我们一群朋友都爱侃大山……割不了，我是宝妈一枚……昨天过生日，大伙在一起吃饭。我二哥总逗我同学，说她长的高大威猛！我同学说，我乐意，高大威猛。总比你好，老了人家都拄拐杖！你直接拄个牙签就能出去。哎哟，老同学你是组织里的人儿啊？这语言真犀利。
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">294</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">24</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">3</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_15">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/26217894/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2621/26217894/thumb/20190429104139.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/26217894/" class="username" ref="nofollow">聊天不撩妹子的</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">54</i>
+</div>
+</header>
+
+<a href="/article/121849246" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+群里都在聊，找对象一定同年代的，不然会有代沟，我说不大可能的，并且我跟他说我是六五年的老婆七二年的。<br/>群里有个正在闹离婚的女的说：他们家代沟就很严重，说他们两人总是想不到一起去，正准备离婚了。<br/>/有人问她两口子隔几个年代的。<br/>她回说：老公是八九年的，她是九零年的。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849246" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">聊天不撩妹子的：</span>
+<span class="text">这理由。。。服了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+45
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">1981</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">168</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">50</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">49</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_16">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/41811216/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/4181/41811216/thumb/20190510213757.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/41811216/" class="username" ref="nofollow">不喜欢洗锅</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">18</i>
+</div>
+</header>
+
+<a href="/article/121848967" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+女同事，最近在晨练，竟然坚持一个月了！我表示非常吃惊，问：你平时那么懒，是什么动力让你坚持下去的？<br/>吃货同事叹口气：哎！我不锻炼不行啊！小肚子上的肉肉太多,和老公啪啪时,他都是闭着眼睛，一副英勇就义的表情……
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848967" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">瞄亻凤：</span>
+<span class="text">大家都是成年人了，说话尽量色情点</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+185
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5320</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">452</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">200</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">83</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_17">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/26217894/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2621/26217894/thumb/20190429104139.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/26217894/" class="username" ref="nofollow">聊天不撩妹子的</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">54</i>
+</div>
+</header>
+
+<a href="/article/121849059" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+老婆刚拿驾照那会，去菜市场买菜都要开车去，而菜市场离住的地方不会超过六百米。<br/>有一次我从外面回家，刚停车她跑过来让我别熄火。<br/>把我从车上拉下来了，她上车说去买菜去，然后就见她手刹没放空挡踩油门，那车震的，特别是烟把车都要照上了。<br/>就见她推开车门，一把从地上拖着我就跑，嘴里还大声叫：老公快起来跑，车要爆炸了。。。。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849059" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">君糗我未糗，我糗不喝酒：</span>
+<span class="text">要爆炸了还记得拖着你跑，绝对是真爱，好好珍惜</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+184
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3123</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">265</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">150</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">53</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_18">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/16168389/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1616/16168389/thumb/20190519220413.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/16168389/" class="username" ref="nofollow">爱泡泡的｜胡子哥</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">37</i>
+</div>
+</header>
+
+<a href="/article/121851023" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+今天天热，脱了个光膀子。儿子要看我的肌肉，我给他秀了个二头肌、三角肌。然后一用力，爆出了一对胸肌。<br/>儿子睁大眼睛，感叹到“太厉害了！比妈妈的还大！这就叫隆胸吗？”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121851023" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">猪猪家的大猪头：</span>
+<span class="text">楼主抹了一把辛酸泪说道:儿砸，其实我才是你妈</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+43
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">1972</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">167</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">31</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_19">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/32144663/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3214/32144663/thumb/20170430122941.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/32144663/" class="username" ref="nofollow">尼古拉斯·屌爆</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">20</i>
+</div>
+</header>
+
+<a href="/article/117905068" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+发个不是糗事的糗事，今天去车管所处理违章，人山人海，我排在后面，听见前面一大哥问：“我扣多少分”当工作人员报出136分的时候，我惊呆了。大厅里的人顿时沸腾了。人才啊。
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">350</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">29</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">29</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_20">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/5115401/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/511/5115401/thumb/201608212252105.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/5115401/" class="username" ref="nofollow">舌尖上的阴帝</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121849310" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+儿子越来越大，问题也越来越多。早上带他去买菜；他：爸爸，那是什么？我：吊机。 儿子：那么高哈，吊机做什么的？我：吊东西的。儿子：吊什么东西哈？ 我：沙子。 儿子：沙子做什么的？ 我：建房子。儿子：建房子做什么？我已经忍不住想揍他一顿
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849310" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">晕还是要注册啊：</span>
+<span class="text">肤浅啊你们  孩子正处于探索世界的阶段</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+21
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2523</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">214</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">50</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">74</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_21">
+
+
+<header>
+<!-- 匿名用户或未发表文章 -->
+<a href="javascript:;" class="avatar" style="background-image: url(//static.qiushibaike.com/images/thumb/anony.png?v=b61e7f5162d14b7c0d5f419cd6649c87);" alt="匿名用户"></a>
+<a href="javascript:;" class="username" alt="匿名用户">匿名用户</a>
+<!-- <div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">21</i>
+</div> -->
+</header>
+
+<a href="/article/121789404" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+拉屎的时候被蚊子叮了老二，这尼玛给我难受的，我恨死蚊子了。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121789404" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">不要变态：</span>
+<span class="text">笑什么笑，都肿成火柴棍了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+101
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">1934</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">164</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">30</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">101</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_22">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/37873753/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3787/37873753/thumb/2018041609440946.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/37873753/" class="username" ref="nofollow">邓闲</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">18</i>
+</div>
+</header>
+
+<a href="/article/121849320" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+今天有点感冒去打针，护士妹子特别漂亮，于是我开始嘴贱：你快点来喔，我在床上等你！<br/>护士妹子一顿，瞬间微笑：好啊，好啊！到时候你可别叫啊！<br/>你们猜猜，我今天挨了几针？
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849320" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">昵称就这个：</span>
+<span class="text">只要扎回去，挨几针都行</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+31
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3066</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">260</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">30</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">55</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_23">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/20053149/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2005/20053149/thumb/20190513165251.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/20053149/" class="username" ref="nofollow">小爷复姓欧阳诺①</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">22</i>
+</div>
+</header>
+
+<a href="/article/121848434" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+公司来了一个PL妹子，慢慢熟悉了，有次看见公司没有几个人，我抽出一张红票子:“小妞，给爷唱个十八摸，这钱就是你的。”<br/>妹子:“爷自重，我不卖艺。”<br/>我该这么说？
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848434" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">ybh12003：</span>
+<span class="text">那小妞，卖个身吧</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+72
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3866</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">328</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">90</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">124</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_24">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/32915780/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3291/32915780/thumb/2016110318235510.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/32915780/" class="username" ref="nofollow">轶思</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">20</i>
+</div>
+</header>
+
+<a href="/article/117905369" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+刚刚走在路上，一个奶奶带着孙女，奶奶说，还喝酸奶，作业不完成还喝酸奶？吓得我赶紧把手上的果汁一口气吸完了
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">220</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">18</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">0</i></div>
+</div>
+</article>
+
+
+
+
+
+
+</main>
+
+<div class="common-loader hide">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+<div id="tips-box" class="hide">
+<div class="tips">
+<i class="icon icon-cring"></i>
+<span>没有更多数据了，请手动刷新当前网页</span>
+</div>
+<a href="#" class="refresh">点击刷新</a>
+</div>
+
+
+
+<!-- footer -->
+<footer id="footerBox">
+<p class="text1">请使用当前浏览器底部中间的“<strong>添加书签</strong>”功能进行收藏</p>
+<p class="text2"><strong>糗事百科</strong>-超搞笑的原创糗事笑话分享社区</p>
+</footer>
+
+
+
+<!-- 回到顶部按钮 -->
+<div id="floatBtn">
+<a href="javascript:void()" class="bxtt-pocket hide"></a>
+<a href="javascript:void()" class="game hide" rel="nofollow"></a>
+<a href="/new4/suggest" class="feedback" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'touch-qiushi-list-suggest', 'chick']); "></a>
+<a href="javascript:;" class="goTop" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'touch-qiushi-list-back-top', 'chick']); "></a>
+</div>
+
+
+
+<script type="text/javascript" src="https://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">
+window.broadJson = '[]'
+</script>
+<script type="text/javascript" src="//static.qiushibaike.com/js/dist/touch/v3/text.min.js?v=496928314419cb8e832896cf625c7546"></script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-8780108-10', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+
+
+</body>
+</html><!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+糗百24小时新糗事 - 糗事百科
+</title>
+<meta name="applicable-device"content="mobile">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta http-equiv="Cache-Control" content="no-transform" />
+
+
+
+
+<meta name="keywords" content="" />
+
+
+<meta name="description" content="糗事百科官网提供24小时糗搞笑笑话，糗百24小时内新糗事就只在糗事百科官网24小时专题，囊括恶搞、尴尬糗事精华，快乐减压！"/>
+
+
+<link rel="stylesheet" href="//static.qiushibaike.com/css/dist/touch/v3/index.min.css?v=02e16a19ad51e7421c94789fee8e884f"/>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?743362d4b71e22775786fbc54283175c";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+// 收集运营上缓存证据
+window.config = {
+'user_time': '2019-05-26 17:28:27',
+'version': '2017-09-04 14:36',
+'bj': 'False',
+}
+</script>
+</head>
+<body class="body_night">
+
+
+
+<header>
+<div id="suspension" class="hide">
+<img src="//static.qiushibaike.com/images/touch_v3/yuedu/suspension3@3x.png?v=bf588f5e6fadc9694ca47a725fd1664b" alt="">
+</div>
+<div id="logoBar">
+<div class="logo">
+<a href="/" onclick="_hmt.push(['_trackEvent', 'qiushi_logo', 'chick']);"></a>
+</div>
+<div class="float-nav">
+<a href="/media/" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'qiushi_top_button_02', 'chick']);">视频</a>
+<a href="/news/" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'qiushi_top_button_03', 'chick']);">排行榜</a>
+</div>
+</div>
+<nav class="top-bar clearfix">
+<a href="/" class="" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_qiushi', 'chick']);">
+糗事
+</a>
+<a href="/hot/" class="" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_24xiaoshi', 'chick']);">
+24小时
+</a>
+<a href="/imgrank/" class="" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_retu', 'chick']);">
+热图
+</a>
+<a href="/text/" class="active" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_chunwen', 'chick']);">
+纯文
+</a>
+<a href="/history/" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_chuanyue', 'chick']);">
+穿越
+</a>
+<a href="/gif/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_gif', 'chick']); ">GIF</a>
+<!--<a href="https://www.qiushibaike.com/gif/6.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_meinvtu', 'chick']); ">美女图</a>-->
+<!--<a href="/gif/6.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_xiee', 'chick']); ">邪恶</a>-->
+<a href="/news/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_remen', 'chick']); ">热门</a>
+<a href="/gif/1.html" ref="nofollow" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_gaoxiao', 'chick']); ">搞笑</a>
+<a href="/img/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_tupian', 'chick']); ">图片</a>
+<!--<a href="/img/0.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_xiezhenji', 'chick']); ">写真集</a>-->
+<a href="/media/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_shipin', 'chick']); ">视频</a>
+<a href="/media/60000/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_meinv', 'chick']); ">美女</a>
+<a href="/media/30000/" ref="nofollow" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_egao', 'chick']); ">恶搞</a>
+</nav>
+<a href="https://toutiao.qiushibaike.com/yuedu/activity/alipayLession/?ref=touch">
+<img src="//static.qiushibaike.com/images/touch_v3/banner_alipay.png?v=f6bf4e4abbd2363d33e200ba777908f4" alt="" class="banner" style="width: 100%; border-bottom: 10px solid #F7F7F7">
+</a>
+</header>
+
+
+
+
+<!-- 文章列表 -->
+<main data-pagenum="12">
+
+<script type="text/javascript">
+var UA = window.navigator.userAgent.toLowerCase();
+var HREF = window.location.href;
+function injectAds(parentEle, jsSrc) {
+var sNew = document.createElement('script');
+sNew.async = true;
+sNew.src = jsSrc;
+parentEle.appendChild(sNew);
+}
+function getPlatform(UA) {
+if (/(iphone)\D+(\d[\d.]*)/.test(UA)) {
+return 'iphone'
+} else {
+return 'android'
+}
+}
+function getChannel(name) {
+var reg = new RegExp('(^|&)'+ name +'=([^&]*)(&|$)', 'i');
+var r = window.location.search.substr(1).match(reg);
+if (r != null) {
+return unescape(r[2]);
+}
+return 'all';
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_long_0">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/14849114/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1484/14849114/thumb/20180717101252.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/14849114/" class="username" ref="nofollow">星劫</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121839112" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-first', 'chick']);">
+
+
+儿子回到家，惊魂未定的对我说，爸，咱家门口出现一个精神病老太太，非拦着要我跟她走 说要帮我补习。<br/>　　我怒了，这是哪来的骗子呀 ，想拐带我儿子呀，这还了得！<br/>　　我急匆匆出去了，去找精神病理论，一直到现在也没法回家。<br/>　　儿子所说的精神病老太太，是我中学班主任，得了健忘症，可是看到我，记得清清楚楚，熟练的揪着我耳朵到她家写作业了。<br/>　　呜呜呜，谁告诉我，画虎
+…
+
+
+<span class="fullArtitle" >查看全文</span>
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121839112" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">忙里偷闲逛糗百！：</span>
+<span class="text">这样的好老师你就好好学习吧，不会可以问啊</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+6
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">421</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">35</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">1</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_1">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/32236400/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3223/32236400/thumb/20190406211131.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/32236400/" class="username" ref="nofollow">偷惢</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">19</i>
+</div>
+</header>
+
+<a href="/article/121804712" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+闺蜜晴儿特别喜欢吃冷面，我经常给她打包，每次她都抱怨不够吃～<br/>今天中午照例如此，我让服务员给装了两份放在一个碗里拿回家，晴儿狼吞虎咽的造了一多半，开心的跟我说:心儿，你说我是不是要瘦了？平时都不够吃，今天感觉吃这些就饱了呢！<br/>我:今天我给你买了两份……<br/>晴儿憋着小脸，想了半天冒出来一句，“你是不是想吃胖我？然后没人喜欢我了，小哥哥都喜欢你，我怎么那么命苦啊！
+…
+
+
+<span class="fullArtitle" >查看全文</span>
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121804712" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">任性的傻晴°：</span>
+<span class="text">我特么，想男人想疯了！[大哭]</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+84
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2355</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">200</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">40</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">57</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_2">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/40167758/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/4016/40167758/thumb/default_avatar.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/40167758/" class="username" ref="nofollow">糗友286470</a>
+
+womenIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">0</i>
+</div>
+</header>
+
+<a href="/article/121851509" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+当时泰坦尼克号出发，我拼尽全力失声呐喊，不要启航，没一个人听我的，还骂我沙雕，最后我被电影院的保安架了出去。。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121851509" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">家有兔宝整两只：</span>
+<span class="text">废话，大家都静静地等着画画和车里的那两场戏，听你的票就白买了。</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+44
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3585</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">304</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">90</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">58</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_3">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/27197780/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2719/27197780/thumb/20180331095822.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/27197780/" class="username" ref="nofollow">桀骜的寂寞</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">35</i>
+</div>
+</header>
+
+<a href="/article/121848499" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+老婆家是农村的，今天杀猪请客，来了很多她家的亲戚，我不太认识，吃饭的时候，我跟一个阿姨特别聊得来，越聊聊投机，饭后等她走后，我问岳母该怎么称呼那个阿姨，结果岳母说：“不用称呼，她是咱村里的精神病，只是来蹭顿饭。”我：……
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848499" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">一夜的夜夜：</span>
+<span class="text">有些神经病真的就是跟当前主流价值观不合而已</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+132
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">4818</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">409</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">120</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">102</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_4">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/15780136/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1578/15780136/thumb/2016101912251783.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/15780136/" class="username" ref="nofollow">野原小姐</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">23</i>
+</div>
+</header>
+
+<a href="/article/116508359" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+七岁小侄子平时是由奶奶带的 这是背景   我能说他从两年前开始就每天拿着小板凳准时收看新闻联播呐！ 问他在看什么  说是看不懂就是喜欢看 孩子啊 学校里别的小伙伴都在讨论熊大熊二的时候你都跟人家说的什么！不说了…各位看官脑补下画面吧。。妹子纯手打 跪求大审手下留情！
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">907</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">77</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">20</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">24</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_5">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/24667130/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2466/24667130/thumb/20190518155348.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/24667130/" class="username" ref="nofollow">饮最烈的酒、艹最爱…</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">31</i>
+</div>
+</header>
+
+<a href="/article/121850370" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+初中有个同学早恋，双方父母到一起没打也没闹，一句话，你俩考不上一本的话自杀也不会让你俩在一起！结果成绩一般的两个人一起努力考上我们市重点高中，又一起努力考上了哈尔滨工程学院。大一下学期女生把男生甩了…
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121850370" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">东北偏北2：</span>
+<span class="text">她终于发现，学习比搞对象有意思多了！</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+178
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">4156</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">353</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">110</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">122</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_6">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/36134709/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3613/36134709/thumb/20180103132911.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/36134709/" class="username" ref="nofollow">风湿病孝喘砖冶</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">37</i>
+</div>
+</header>
+
+<a href="/article/121850287" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+堂弟上学总是谈恋爱，二叔一气之下揍了他一顿，他居然偷拿了家里3万块钱搞传销去了。二叔欲哭无泪，一天正在家里呆坐，来了两个社会人，确认了二叔的身份后，掏出6万块放来上说：我是传销的头目，钱退给你，外加3万，告诉我你儿子在哪？二叔慌问：他闯祸了？头目说：那小子把我妹妹拐跑了。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121850287" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">醉却江水滔滔：</span>
+<span class="text">上次我看这个段子，我还是个处男，现在我已经是两个孩子的妈了。</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+50
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2062</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">175</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">33</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_7">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/30604644/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3060/30604644/thumb/201807031055060.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/30604644/" class="username" ref="nofollow">徘徊的老鹰</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">43</i>
+</div>
+</header>
+
+<a href="/article/121811165" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+去年端午节到广西同事家玩儿，我们大西北很少吃肉粽子。同事的家人问我吃肉粽还是灰水粽？跟他们说吃肉粽，我能吃四五个。他们家人听完一脸惊讶的看着我，夸我厉害！<br/>等粽子上桌的时候，谁能告诉我，为啥广西这边的粽子一个几斤重……
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121811165" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">歌歌哒f：</span>
+<span class="text">要搭配黑驴蹄子才行</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+117
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5352</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">454</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">50</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">120</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_8">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/26217894/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2621/26217894/thumb/20190429104139.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/26217894/" class="username" ref="nofollow">聊天不撩妹子的</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">54</i>
+</div>
+</header>
+
+<a href="/article/121849246" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+群里都在聊，找对象一定同年代的，不然会有代沟，我说不大可能的，并且我跟他说我是六五年的老婆七二年的。<br/>群里有个正在闹离婚的女的说：他们家代沟就很严重，说他们两人总是想不到一起去，正准备离婚了。<br/>/有人问她两口子隔几个年代的。<br/>她回说：老公是八九年的，她是九零年的。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849246" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">聊天不撩妹子的：</span>
+<span class="text">这理由。。。服了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+45
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">1981</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">168</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">50</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">49</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_9">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/31738564/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3173/31738564/thumb/20160506233743.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/31738564/" class="username" ref="nofollow">鎏年未央</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/116506830" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+背景：楼主和一女票在沙发上看电视.吃柿子！over<br/>Lz说柿子不甜.好酸.女票侧躺着.汗脚的味道传来！Lz说太酸.女票随机补到：再吃有你吃的柿子酸？瞬间崩溃！有没有？
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">164</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">13</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">0</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_10">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/31031076/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3103/31031076/thumb/20180113103616.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/31031076/" class="username" ref="nofollow">夕冬温存</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121849856" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+女儿不肯写作业，一会要喝水，一会要吃东西，拖拖拉拉两个小时才写了几个字。<br/>一巴掌过去，现在写了满满两页纸了。<br/>非物质文化遗产还是蛮好的。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849856" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">苦笑一生：</span>
+<span class="text">家庭暴力都被你说的这么高大上了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+99
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5652</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">480</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">210</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">90</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_11">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/30545015/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3054/30545015/thumb/20190519171120.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/30545015/" class="username" ref="nofollow">花落彼岸～任逍遥</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">29</i>
+</div>
+</header>
+
+<a href="/article/121848610" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+去年夏天的时候家里趟地，趟一半感觉肚子不舒服，就跑到地外准备方便一下，没想到脚下打滑坐石头上了，好不容易解决完，让我哥扶我去医院，医生看到我捂着屁股的样子说到:“年轻人我不反对你们在一起，但是一定要节制呀”。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848610" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">传奇人物隔壁老王：</span>
+<span class="text">这医生也是过来人</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+50
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2038</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">173</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">20</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">23</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_12">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/33028477/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3302/33028477/thumb/20190519131353.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/33028477/" class="username" ref="nofollow">依丽若水</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121801035" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+外甥女拿着《我的妈妈》的作文要姐签字，里面写的姐姐秀丽温婉，孝顺父母，如天使一般爱护着孩子。。<br/>姐姐看后眼泪婆娑，激动的了不得，哆嗦要把外甥女搂过来。。。。<br/>外甥女低头扭扭捏捏的：“老妈，别激动，人物是真的，其他都是我编的....…”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121801035" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">小燕飞1206.：</span>
+<span class="text">好多作文都是编的，什么有意义的事情，好事啥的，天天上学，下，补习功课，做作业都做不过来，有个P事写</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+96
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">4021</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">341</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">60</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">54</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_13">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/41811216/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/4181/41811216/thumb/20190510213757.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/41811216/" class="username" ref="nofollow">不喜欢洗锅</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">18</i>
+</div>
+</header>
+
+<a href="/article/121838887" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+朋友送了一只整羊，得切碎了放冰箱。我研找了斧子砍刀，究半天不知道怎么下手.......二货媳妇学医的，拿起一把尖水果刀，一会功夫分成几大块，再一会骨架子和肉都分出来了，我整佩服她手艺时二货撇了句“要敢做对不起我的事这就是你的下场”...我一晚上没睡好，总觉得背后凉飕飕的...
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121838887" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">一aLIEz一：</span>
+<span class="text">想起那个医学院的女学生，捅了男友二十多刀，刀刀避开要害。。。最后被判无罪。。。</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+147
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5119</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">435</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">60</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">105</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_14">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/10331935/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1033/10331935/thumb/20140420154631.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/10331935/" class="username" ref="nofollow">疾风追</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">31</i>
+</div>
+</header>
+
+<a href="/article/116508108" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+昨天去买包，快和妹子谈好220，老婆再隔壁来了就250吧。
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">309</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">26</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">0</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_15">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/36760891/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3676/36760891/thumb/20190408204825.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/36760891/" class="username" ref="nofollow">辛弃疾゛</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">33</i>
+</div>
+</header>
+
+<a href="/article/121848794" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+初中时家长会上发现班主任是我爸教过的学生，从那以后他对我“额外关照”，使得我整整三年都没放松。<br/>现如今身为小学老师的我，在今天的家长会上发现当年的班主任坐在下面，默默的看了一眼班上最为调皮捣蛋的他儿子，忍不住狂喜:天道好轮回啊！
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848794" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">胖香：</span>
+<span class="text">冤冤相报，何时了，生个儿子给你教</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+100
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5292</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">449</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">140</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">62</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_16">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/37873753/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3787/37873753/thumb/2018041609440946.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/37873753/" class="username" ref="nofollow">邓闲</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">18</i>
+</div>
+</header>
+
+<a href="/article/121849320" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+今天有点感冒去打针，护士妹子特别漂亮，于是我开始嘴贱：你快点来喔，我在床上等你！<br/>护士妹子一顿，瞬间微笑：好啊，好啊！到时候你可别叫啊！<br/>你们猜猜，我今天挨了几针？
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849320" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">昵称就这个：</span>
+<span class="text">只要扎回去，挨几针都行</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+31
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3078</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">261</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">30</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">55</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_17">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/12992639/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1299/12992639/thumb/20180519105602.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/12992639/" class="username" ref="nofollow">胖香</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">101</i>
+</div>
+</header>
+
+<a href="/article/121849515" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+为了恭喜我哥喜提二公子，买了个小木床送去，我哥美滋滋的一边安装一边问我：“你确定这个床安全结实？”我信誓旦旦的跟他保证：“放心吧，我问过了，睡200斤的宝宝都没问题！”<br/><br/>嫌我送的礼不好？为啥我还没说完他就让我出去……
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849515" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">吃了两碗又盛：</span>
+<span class="text">除了你谁200斤</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+40
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">1872</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">159</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">22</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_18">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/21816403/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2181/21816403/thumb/20190307075316.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/21816403/" class="username" ref="nofollow">咕叽咕叽叽里呱啦</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">35</i>
+</div>
+</header>
+
+<a href="/article/121778951" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+早些年在一个医药公司工作，认识了一个大型制药企业派驻的省大区老总，性格爽朗，爱说爱笑，爱喝酒，出手大方，讲义气。<br/><br/>有一次和这位大哥喝酒，喝得高兴，大哥讲了一段自己过去的风流故事：<br/><br/>当年，十几年前，大哥已经是一个省的大区经理，业绩很好，收入不匪，只是需要常年驻外。风流韵事自然不少。当时大哥已经结婚，一个女儿十二岁了。<br/><br/>后来认识了一个女大学生，很快就得手了
+…
+
+
+<span class="fullArtitle" >查看全文</span>
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121778951" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">无忧哈体检：</span>
+<span class="text">因为他老婆想给他一个亲生的，</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+488
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5557</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">472</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">250</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">74</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_19">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/25920218/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2592/25920218/thumb/default_avatar.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/25920218/" class="username" ref="nofollow">福利福利哇</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">26</i>
+</div>
+</header>
+
+<a href="/article/116508760" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+又是一年高考毕业季！这不昨天我姑对我表弟说：<br/>孩子，这回没考好不要紧，你还小，我和你爸也还年轻，我们还可以再要一个孩子。。。
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">235</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">19</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">40</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">2</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_20">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/41811216/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/4181/41811216/thumb/20190510213757.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/41811216/" class="username" ref="nofollow">不喜欢洗锅</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">18</i>
+</div>
+</header>
+
+<a href="/article/121848967" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+女同事，最近在晨练，竟然坚持一个月了！我表示非常吃惊，问：你平时那么懒，是什么动力让你坚持下去的？<br/>吃货同事叹口气：哎！我不锻炼不行啊！小肚子上的肉肉太多,和老公啪啪时,他都是闭着眼睛，一副英勇就义的表情……
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848967" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">瞄亻凤：</span>
+<span class="text">大家都是成年人了，说话尽量色情点</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+187
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5334</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">453</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">200</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">83</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_21">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/16168389/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1616/16168389/thumb/20190519220413.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/16168389/" class="username" ref="nofollow">爱泡泡的｜胡子哥</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">37</i>
+</div>
+</header>
+
+<a href="/article/121851023" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+今天天热，脱了个光膀子。儿子要看我的肌肉，我给他秀了个二头肌、三角肌。然后一用力，爆出了一对胸肌。<br/>儿子睁大眼睛，感叹到“太厉害了！比妈妈的还大！这就叫隆胸吗？”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121851023" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">猪猪家的大猪头：</span>
+<span class="text">楼主抹了一把辛酸泪说道:儿砸，其实我才是你妈</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+44
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">1977</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">168</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">31</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_22">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/34975132/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3497/34975132/thumb/20190524111448.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/34975132/" class="username" ref="nofollow">-小门神~</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">20</i>
+</div>
+</header>
+
+<a href="/article/121848660" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+和老爹吵了一架，老爹叫我滚蛋，我说滚就滚，以后都不会回来了。<br/>过了不久，我走出房门。老爹坐在客厅椅子上，他看着我手上拿的行李，我想到老爹刚才叫我滚蛋的狠话！<br/>爷俩沉默了一会儿，几乎异口同声地问对方:你刚才跟我开玩笑的吧？<br/>额。。。。。。”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848660" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">多年以后你和谁：</span>
+<span class="text">可能是真的</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+32
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3043</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">258</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">40</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">49</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_23">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/20053149/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2005/20053149/thumb/20190513165251.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/20053149/" class="username" ref="nofollow">小爷复姓欧阳诺①</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">22</i>
+</div>
+</header>
+
+<a href="/article/121848434" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+公司来了一个PL妹子，慢慢熟悉了，有次看见公司没有几个人，我抽出一张红票子:“小妞，给爷唱个十八摸，这钱就是你的。”<br/>妹子:“爷自重，我不卖艺。”<br/>我该这么说？
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848434" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">ybh12003：</span>
+<span class="text">那小妞，卖个身吧</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+72
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3869</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">328</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">90</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">124</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_24">
+
+
+<header>
+<!-- 匿名用户或未发表文章 -->
+<a href="javascript:;" class="avatar" style="background-image: url(//static.qiushibaike.com/images/thumb/anony.png?v=b61e7f5162d14b7c0d5f419cd6649c87);" alt="匿名用户"></a>
+<a href="javascript:;" class="username" alt="匿名用户">匿名用户</a>
+<!-- <div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">21</i>
+</div> -->
+</header>
+
+<a href="/article/116509982" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+想看有故事情节的小 电影，推荐一下呗
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">133</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">11</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">5</i></div>
+</div>
+</article>
+
+
+
+
+
+
+</main>
+
+<div class="common-loader hide">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+<div id="tips-box" class="hide">
+<div class="tips">
+<i class="icon icon-cring"></i>
+<span>没有更多数据了，请手动刷新当前网页</span>
+</div>
+<a href="#" class="refresh">点击刷新</a>
+</div>
+
+
+
+<!-- footer -->
+<footer id="footerBox">
+<p class="text1">请使用当前浏览器底部中间的“<strong>添加书签</strong>”功能进行收藏</p>
+<p class="text2"><strong>糗事百科</strong>-超搞笑的原创糗事笑话分享社区</p>
+</footer>
+
+
+
+<!-- 回到顶部按钮 -->
+<div id="floatBtn">
+<a href="javascript:void()" class="bxtt-pocket hide"></a>
+<a href="javascript:void()" class="game hide" rel="nofollow"></a>
+<a href="/new4/suggest" class="feedback" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'touch-qiushi-list-suggest', 'chick']); "></a>
+<a href="javascript:;" class="goTop" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'touch-qiushi-list-back-top', 'chick']); "></a>
+</div>
+
+
+
+<script type="text/javascript" src="https://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">
+window.broadJson = '[]'
+</script>
+<script type="text/javascript" src="//static.qiushibaike.com/js/dist/touch/v3/text.min.js?v=496928314419cb8e832896cf625c7546"></script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-8780108-10', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+
+
+</body>
+</html><!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+糗百24小时新糗事 - 糗事百科
+</title>
+<meta name="applicable-device"content="mobile">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta http-equiv="Cache-Control" content="no-transform" />
+
+
+
+
+<meta name="keywords" content="" />
+
+
+<meta name="description" content="糗事百科官网提供24小时糗搞笑笑话，糗百24小时内新糗事就只在糗事百科官网24小时专题，囊括恶搞、尴尬糗事精华，快乐减压！"/>
+
+
+<link rel="stylesheet" href="//static.qiushibaike.com/css/dist/touch/v3/index.min.css?v=02e16a19ad51e7421c94789fee8e884f"/>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?743362d4b71e22775786fbc54283175c";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+// 收集运营上缓存证据
+window.config = {
+'user_time': '2019-05-26 17:28:37',
+'version': '2017-09-04 14:36',
+'bj': 'False',
+}
+</script>
+</head>
+<body class="body_night">
+
+
+
+<header>
+<div id="suspension" class="hide">
+<img src="//static.qiushibaike.com/images/touch_v3/yuedu/suspension3@3x.png?v=bf588f5e6fadc9694ca47a725fd1664b" alt="">
+</div>
+<div id="logoBar">
+<div class="logo">
+<a href="/" onclick="_hmt.push(['_trackEvent', 'qiushi_logo', 'chick']);"></a>
+</div>
+<div class="float-nav">
+<a href="/media/" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'qiushi_top_button_02', 'chick']);">视频</a>
+<a href="/news/" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'qiushi_top_button_03', 'chick']);">排行榜</a>
+</div>
+</div>
+<nav class="top-bar clearfix">
+<a href="/" class="" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_qiushi', 'chick']);">
+糗事
+</a>
+<a href="/hot/" class="" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_24xiaoshi', 'chick']);">
+24小时
+</a>
+<a href="/imgrank/" class="" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_retu', 'chick']);">
+热图
+</a>
+<a href="/text/" class="active" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_chunwen', 'chick']);">
+纯文
+</a>
+<a href="/history/" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_chuanyue', 'chick']);">
+穿越
+</a>
+<a href="/gif/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_gif', 'chick']); ">GIF</a>
+<!--<a href="https://www.qiushibaike.com/gif/6.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_meinvtu', 'chick']); ">美女图</a>-->
+<!--<a href="/gif/6.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_xiee', 'chick']); ">邪恶</a>-->
+<a href="/news/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_remen', 'chick']); ">热门</a>
+<a href="/gif/1.html" ref="nofollow" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_gaoxiao', 'chick']); ">搞笑</a>
+<a href="/img/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_tupian', 'chick']); ">图片</a>
+<!--<a href="/img/0.html" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_xiezhenji', 'chick']); ">写真集</a>-->
+<a href="/media/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_shipin', 'chick']); ">视频</a>
+<a href="/media/60000/" ref="nofollow" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_meinv', 'chick']); ">美女</a>
+<a href="/media/30000/" ref="nofollow" class="endline" onclick="_hmt.push(['_trackEvent', '0qiushi_menu_egao', 'chick']); ">恶搞</a>
+</nav>
+<a href="https://toutiao.qiushibaike.com/yuedu/activity/alipayLession/?ref=touch">
+<img src="//static.qiushibaike.com/images/touch_v3/banner_alipay.png?v=f6bf4e4abbd2363d33e200ba777908f4" alt="" class="banner" style="width: 100%; border-bottom: 10px solid #F7F7F7">
+</a>
+</header>
+
+
+
+
+<!-- 文章列表 -->
+<main data-pagenum="12">
+
+<script type="text/javascript">
+var UA = window.navigator.userAgent.toLowerCase();
+var HREF = window.location.href;
+function injectAds(parentEle, jsSrc) {
+var sNew = document.createElement('script');
+sNew.async = true;
+sNew.src = jsSrc;
+parentEle.appendChild(sNew);
+}
+function getPlatform(UA) {
+if (/(iphone)\D+(\d[\d.]*)/.test(UA)) {
+return 'iphone'
+} else {
+return 'android'
+}
+}
+function getChannel(name) {
+var reg = new RegExp('(^|&)'+ name +'=([^&]*)(&|$)', 'i');
+var r = window.location.search.substr(1).match(reg);
+if (r != null) {
+return unescape(r[2]);
+}
+return 'all';
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_long_0">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/14849114/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1484/14849114/thumb/20180717101252.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/14849114/" class="username" ref="nofollow">星劫</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121839112" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-first', 'chick']);">
+
+
+儿子回到家，惊魂未定的对我说，爸，咱家门口出现一个精神病老太太，非拦着要我跟她走 说要帮我补习。<br/>　　我怒了，这是哪来的骗子呀 ，想拐带我儿子呀，这还了得！<br/>　　我急匆匆出去了，去找精神病理论，一直到现在也没法回家。<br/>　　儿子所说的精神病老太太，是我中学班主任，得了健忘症，可是看到我，记得清清楚楚，熟练的揪着我耳朵到她家写作业了。<br/>　　呜呜呜，谁告诉我，画虎
+…
+
+
+<span class="fullArtitle" >查看全文</span>
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121839112" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">忙里偷闲逛糗百！：</span>
+<span class="text">这样的好老师你就好好学习吧，不会可以问啊</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+6
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">421</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">35</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">1</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_1">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/32236400/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3223/32236400/thumb/20190406211131.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/32236400/" class="username" ref="nofollow">偷惢</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">19</i>
+</div>
+</header>
+
+<a href="/article/121804712" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+闺蜜晴儿特别喜欢吃冷面，我经常给她打包，每次她都抱怨不够吃～<br/>今天中午照例如此，我让服务员给装了两份放在一个碗里拿回家，晴儿狼吞虎咽的造了一多半，开心的跟我说:心儿，你说我是不是要瘦了？平时都不够吃，今天感觉吃这些就饱了呢！<br/>我:今天我给你买了两份……<br/>晴儿憋着小脸，想了半天冒出来一句，“你是不是想吃胖我？然后没人喜欢我了，小哥哥都喜欢你，我怎么那么命苦啊！
+…
+
+
+<span class="fullArtitle" >查看全文</span>
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121804712" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">任性的傻晴°：</span>
+<span class="text">我特么，想男人想疯了！[大哭]</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+84
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2355</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">200</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">40</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">57</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_2">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/40167758/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/4016/40167758/thumb/default_avatar.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/40167758/" class="username" ref="nofollow">糗友286470</a>
+
+womenIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">0</i>
+</div>
+</header>
+
+<a href="/article/121851509" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+当时泰坦尼克号出发，我拼尽全力失声呐喊，不要启航，没一个人听我的，还骂我沙雕，最后我被电影院的保安架了出去。。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121851509" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">家有兔宝整两只：</span>
+<span class="text">废话，大家都静静地等着画画和车里的那两场戏，听你的票就白买了。</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+44
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3585</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">304</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">90</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">58</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_3">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/27197780/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2719/27197780/thumb/20180331095822.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/27197780/" class="username" ref="nofollow">桀骜的寂寞</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">35</i>
+</div>
+</header>
+
+<a href="/article/121848499" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+老婆家是农村的，今天杀猪请客，来了很多她家的亲戚，我不太认识，吃饭的时候，我跟一个阿姨特别聊得来，越聊聊投机，饭后等她走后，我问岳母该怎么称呼那个阿姨，结果岳母说：“不用称呼，她是咱村里的精神病，只是来蹭顿饭。”我：……
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848499" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">一夜的夜夜：</span>
+<span class="text">有些神经病真的就是跟当前主流价值观不合而已</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+132
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">4818</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">409</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">120</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">102</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_4">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/15780136/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1578/15780136/thumb/2016101912251783.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/15780136/" class="username" ref="nofollow">野原小姐</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">23</i>
+</div>
+</header>
+
+<a href="/article/116508359" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+七岁小侄子平时是由奶奶带的 这是背景   我能说他从两年前开始就每天拿着小板凳准时收看新闻联播呐！ 问他在看什么  说是看不懂就是喜欢看 孩子啊 学校里别的小伙伴都在讨论熊大熊二的时候你都跟人家说的什么！不说了…各位看官脑补下画面吧。。妹子纯手打 跪求大审手下留情！
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">907</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">77</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">20</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">24</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_5">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/24667130/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2466/24667130/thumb/20190518155348.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/24667130/" class="username" ref="nofollow">饮最烈的酒、艹最爱…</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">31</i>
+</div>
+</header>
+
+<a href="/article/121850370" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+初中有个同学早恋，双方父母到一起没打也没闹，一句话，你俩考不上一本的话自杀也不会让你俩在一起！结果成绩一般的两个人一起努力考上我们市重点高中，又一起努力考上了哈尔滨工程学院。大一下学期女生把男生甩了…
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121850370" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">东北偏北2：</span>
+<span class="text">她终于发现，学习比搞对象有意思多了！</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+178
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">4156</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">353</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">110</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">122</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_6">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/36134709/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3613/36134709/thumb/20180103132911.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/36134709/" class="username" ref="nofollow">风湿病孝喘砖冶</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">37</i>
+</div>
+</header>
+
+<a href="/article/121850287" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+堂弟上学总是谈恋爱，二叔一气之下揍了他一顿，他居然偷拿了家里3万块钱搞传销去了。二叔欲哭无泪，一天正在家里呆坐，来了两个社会人，确认了二叔的身份后，掏出6万块放来上说：我是传销的头目，钱退给你，外加3万，告诉我你儿子在哪？二叔慌问：他闯祸了？头目说：那小子把我妹妹拐跑了。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121850287" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">醉却江水滔滔：</span>
+<span class="text">上次我看这个段子，我还是个处男，现在我已经是两个孩子的妈了。</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+50
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2062</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">175</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">33</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_7">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/30604644/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3060/30604644/thumb/201807031055060.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/30604644/" class="username" ref="nofollow">徘徊的老鹰</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">43</i>
+</div>
+</header>
+
+<a href="/article/121811165" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+去年端午节到广西同事家玩儿，我们大西北很少吃肉粽子。同事的家人问我吃肉粽还是灰水粽？跟他们说吃肉粽，我能吃四五个。他们家人听完一脸惊讶的看着我，夸我厉害！<br/>等粽子上桌的时候，谁能告诉我，为啥广西这边的粽子一个几斤重……
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121811165" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">歌歌哒f：</span>
+<span class="text">要搭配黑驴蹄子才行</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+117
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5352</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">454</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">50</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">120</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_8">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/26217894/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2621/26217894/thumb/20190429104139.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/26217894/" class="username" ref="nofollow">聊天不撩妹子的</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">54</i>
+</div>
+</header>
+
+<a href="/article/121849246" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+群里都在聊，找对象一定同年代的，不然会有代沟，我说不大可能的，并且我跟他说我是六五年的老婆七二年的。<br/>群里有个正在闹离婚的女的说：他们家代沟就很严重，说他们两人总是想不到一起去，正准备离婚了。<br/>/有人问她两口子隔几个年代的。<br/>她回说：老公是八九年的，她是九零年的。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849246" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">聊天不撩妹子的：</span>
+<span class="text">这理由。。。服了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+45
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">1981</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">168</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">50</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">49</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_9">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/31738564/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3173/31738564/thumb/20160506233743.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/31738564/" class="username" ref="nofollow">鎏年未央</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/116506830" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+背景：楼主和一女票在沙发上看电视.吃柿子！over<br/>Lz说柿子不甜.好酸.女票侧躺着.汗脚的味道传来！Lz说太酸.女票随机补到：再吃有你吃的柿子酸？瞬间崩溃！有没有？
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">164</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">13</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">0</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_10">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/31031076/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3103/31031076/thumb/20180113103616.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/31031076/" class="username" ref="nofollow">夕冬温存</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121849856" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+女儿不肯写作业，一会要喝水，一会要吃东西，拖拖拉拉两个小时才写了几个字。<br/>一巴掌过去，现在写了满满两页纸了。<br/>非物质文化遗产还是蛮好的。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849856" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">苦笑一生：</span>
+<span class="text">家庭暴力都被你说的这么高大上了</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+99
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5652</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">480</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">210</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">90</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_11">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/30545015/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3054/30545015/thumb/20190519171120.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/30545015/" class="username" ref="nofollow">花落彼岸～任逍遥</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">29</i>
+</div>
+</header>
+
+<a href="/article/121848610" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+去年夏天的时候家里趟地，趟一半感觉肚子不舒服，就跑到地外准备方便一下，没想到脚下打滑坐石头上了，好不容易解决完，让我哥扶我去医院，医生看到我捂着屁股的样子说到:“年轻人我不反对你们在一起，但是一定要节制呀”。
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848610" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">传奇人物隔壁老王：</span>
+<span class="text">这医生也是过来人</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+50
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">2038</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">173</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">20</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">23</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_12">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/33028477/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3302/33028477/thumb/20190519131353.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/33028477/" class="username" ref="nofollow">依丽若水</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">28</i>
+</div>
+</header>
+
+<a href="/article/121801035" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+外甥女拿着《我的妈妈》的作文要姐签字，里面写的姐姐秀丽温婉，孝顺父母，如天使一般爱护着孩子。。<br/>姐姐看后眼泪婆娑，激动的了不得，哆嗦要把外甥女搂过来。。。。<br/>外甥女低头扭扭捏捏的：“老妈，别激动，人物是真的，其他都是我编的....…”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121801035" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">小燕飞1206.：</span>
+<span class="text">好多作文都是编的，什么有意义的事情，好事啥的，天天上学，下，补习功课，做作业都做不过来，有个P事写</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+96
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">4021</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">341</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">60</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">54</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_13">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/41811216/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/4181/41811216/thumb/20190510213757.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/41811216/" class="username" ref="nofollow">不喜欢洗锅</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">18</i>
+</div>
+</header>
+
+<a href="/article/121838887" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+朋友送了一只整羊，得切碎了放冰箱。我研找了斧子砍刀，究半天不知道怎么下手.......二货媳妇学医的，拿起一把尖水果刀，一会功夫分成几大块，再一会骨架子和肉都分出来了，我整佩服她手艺时二货撇了句“要敢做对不起我的事这就是你的下场”...我一晚上没睡好，总觉得背后凉飕飕的...
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121838887" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">一aLIEz一：</span>
+<span class="text">想起那个医学院的女学生，捅了男友二十多刀，刀刀避开要害。。。最后被判无罪。。。</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+147
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5119</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">435</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">60</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">105</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_14">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/10331935/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1033/10331935/thumb/20140420154631.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/10331935/" class="username" ref="nofollow">疾风追</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">31</i>
+</div>
+</header>
+
+<a href="/article/116508108" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+昨天去买包，快和妹子谈好220，老婆再隔壁来了就250吧。
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">309</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">26</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">0</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_15">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/36760891/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3676/36760891/thumb/20190408204825.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/36760891/" class="username" ref="nofollow">辛弃疾゛</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">33</i>
+</div>
+</header>
+
+<a href="/article/121848794" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+初中时家长会上发现班主任是我爸教过的学生，从那以后他对我“额外关照”，使得我整整三年都没放松。<br/>现如今身为小学老师的我，在今天的家长会上发现当年的班主任坐在下面，默默的看了一眼班上最为调皮捣蛋的他儿子，忍不住狂喜:天道好轮回啊！
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848794" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">胖香：</span>
+<span class="text">冤冤相报，何时了，生个儿子给你教</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+100
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5292</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">449</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">140</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">62</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_16">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/37873753/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3787/37873753/thumb/2018041609440946.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/37873753/" class="username" ref="nofollow">邓闲</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">18</i>
+</div>
+</header>
+
+<a href="/article/121849320" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+今天有点感冒去打针，护士妹子特别漂亮，于是我开始嘴贱：你快点来喔，我在床上等你！<br/>护士妹子一顿，瞬间微笑：好啊，好啊！到时候你可别叫啊！<br/>你们猜猜，我今天挨了几针？
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849320" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">昵称就这个：</span>
+<span class="text">只要扎回去，挨几针都行</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+31
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3078</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">261</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">30</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">55</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_17">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/12992639/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1299/12992639/thumb/20180519105602.JPEG?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/12992639/" class="username" ref="nofollow">胖香</a>
+
+womenIcon
+<div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">101</i>
+</div>
+</header>
+
+<a href="/article/121849515" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+为了恭喜我哥喜提二公子，买了个小木床送去，我哥美滋滋的一边安装一边问我：“你确定这个床安全结实？”我信誓旦旦的跟他保证：“放心吧，我问过了，睡200斤的宝宝都没问题！”<br/><br/>嫌我送的礼不好？为啥我还没说完他就让我出去……
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121849515" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">吃了两碗又盛：</span>
+<span class="text">除了你谁200斤</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+40
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">1872</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">159</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">22</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_18">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/21816403/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2181/21816403/thumb/20190307075316.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/21816403/" class="username" ref="nofollow">咕叽咕叽叽里呱啦</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">35</i>
+</div>
+</header>
+
+<a href="/article/121778951" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+早些年在一个医药公司工作，认识了一个大型制药企业派驻的省大区老总，性格爽朗，爱说爱笑，爱喝酒，出手大方，讲义气。<br/><br/>有一次和这位大哥喝酒，喝得高兴，大哥讲了一段自己过去的风流故事：<br/><br/>当年，十几年前，大哥已经是一个省的大区经理，业绩很好，收入不匪，只是需要常年驻外。风流韵事自然不少。当时大哥已经结婚，一个女儿十二岁了。<br/><br/>后来认识了一个女大学生，很快就得手了
+…
+
+
+<span class="fullArtitle" >查看全文</span>
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121778951" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">无忧哈体检：</span>
+<span class="text">因为他老婆想给他一个亲生的，</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+488
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5557</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">472</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">250</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">74</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_19">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/25920218/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2592/25920218/thumb/default_avatar.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/25920218/" class="username" ref="nofollow">福利福利哇</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">26</i>
+</div>
+</header>
+
+<a href="/article/116508760" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+又是一年高考毕业季！这不昨天我姑对我表弟说：<br/>孩子，这回没考好不要紧，你还小，我和你爸也还年轻，我们还可以再要一个孩子。。。
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">235</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">19</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">40</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">2</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_20">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/41811216/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/4181/41811216/thumb/20190510213757.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/41811216/" class="username" ref="nofollow">不喜欢洗锅</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">18</i>
+</div>
+</header>
+
+<a href="/article/121848967" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+女同事，最近在晨练，竟然坚持一个月了！我表示非常吃惊，问：你平时那么懒，是什么动力让你坚持下去的？<br/>吃货同事叹口气：哎！我不锻炼不行啊！小肚子上的肉肉太多,和老公啪啪时,他都是闭着眼睛，一副英勇就义的表情……
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848967" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">瞄亻凤：</span>
+<span class="text">大家都是成年人了，说话尽量色情点</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+187
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">5334</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">453</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">200</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">83</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_21">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/16168389/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/1616/16168389/thumb/20190519220413.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/16168389/" class="username" ref="nofollow">爱泡泡的｜胡子哥</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">37</i>
+</div>
+</header>
+
+<a href="/article/121851023" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+今天天热，脱了个光膀子。儿子要看我的肌肉，我给他秀了个二头肌、三角肌。然后一用力，爆出了一对胸肌。<br/>儿子睁大眼睛，感叹到“太厉害了！比妈妈的还大！这就叫隆胸吗？”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121851023" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">猪猪家的大猪头：</span>
+<span class="text">楼主抹了一把辛酸泪说道:儿砸，其实我才是你妈</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+44
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">1977</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">168</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">31</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_22">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/34975132/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/3497/34975132/thumb/20190524111448.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/34975132/" class="username" ref="nofollow">-小门神~</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">20</i>
+</div>
+</header>
+
+<a href="/article/121848660" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+和老爹吵了一架，老爹叫我滚蛋，我说滚就滚，以后都不会回来了。<br/>过了不久，我走出房门。老爹坐在客厅椅子上，他看着我手上拿的行李，我想到老爹刚才叫我滚蛋的狠话！<br/>爷俩沉默了一会儿，几乎异口同声地问对方:你刚才跟我开玩笑的吧？<br/>额。。。。。。”
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848660" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">多年以后你和谁：</span>
+<span class="text">可能是真的</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+32
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3043</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">258</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">40</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">49</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_hot_23">
+
+
+<header>
+<!-- 头像、用户名、年龄 -->
+
+<a href="/users/20053149/" class="avatar" style="background-image: url(//pic.qiushibaike.com/system/avtnew/2005/20053149/thumb/20190513165251.jpg?imageView2/1/w/90/h/90)" ref="nofollow"></a>
+<a href="/users/20053149/" class="username" ref="nofollow">小爷复姓欧阳诺①</a>
+
+manIcon
+<div class="ageBox maleBox">
+<i class="icon iconMale"></i>
+<i class="age">22</i>
+</div>
+</header>
+
+<a href="/article/121848434" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+公司来了一个PL妹子，慢慢熟悉了，有次看见公司没有几个人，我抽出一张红票子:“小妞，给爷唱个十八摸，这钱就是你的。”<br/>妹子:“爷自重，我不卖艺。”<br/>我该这么说？
+
+
+
+</a>
+
+
+
+<div class="hotComment">
+<!-- 神评论 -->
+<div class="comment">
+
+<a href="/article/121848434" alt="" onclick="_hmt.push(['_trackEvent', 'list-qiushi-comment', 'chick']);">
+<div class="item">
+<i class="icon icon-hotcomment"></i>
+
+
+
+
+
+
+<span class="username">ybh12003：</span>
+<span class="text">那小妞，卖个身吧</span>
+<span class="favorite-wrapper">
+<i class="icon icon-favorite"></i>
+<i class="num">
+
+
+72
+</i>
+</span>
+</div>
+</a>
+</div>
+</div>
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">3869</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">328</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">90</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">124</i></div>
+</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+<article class="item tiezi tag_old_24">
+
+
+<header>
+<!-- 匿名用户或未发表文章 -->
+<a href="javascript:;" class="avatar" style="background-image: url(//static.qiushibaike.com/images/thumb/anony.png?v=b61e7f5162d14b7c0d5f419cd6649c87);" alt="匿名用户"></a>
+<a href="javascript:;" class="username" alt="匿名用户">匿名用户</a>
+<!-- <div class="ageBox femaleBox">
+<i class="icon iconFemale"></i>
+<i class="age">21</i>
+</div> -->
+</header>
+
+<a href="/article/116509982" class="text" onclick="_hmt.push(['_trackEvent', 'list-qiushi-content', 'chick']);">
+
+
+想看有故事情节的小 电影，推荐一下呗
+
+
+
+</a>
+
+
+
+<div class="iconBox">
+<!-- 笑脸、评论数等 -->
+
+
+
+<div class="box"><i class="icon icon-laugh"></i><i class="num">133</i></div>
+
+<div class="box"><i class="icon icon-boring"></i><i class="num">11</i></div>
+
+<div class="box"><i class="icon icon-share"></i><i class="num">10</i></div>
+<div class="box"><i class="icon icon-comment"></i><i class="num">5</i></div>
+</div>
+</article>
+
+
+
+
+
+
+</main>
+
+<div class="common-loader hide">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+<div id="tips-box" class="hide">
+<div class="tips">
+<i class="icon icon-cring"></i>
+<span>没有更多数据了，请手动刷新当前网页</span>
+</div>
+<a href="#" class="refresh">点击刷新</a>
+</div>
+
+
+
+<!-- footer -->
+<footer id="footerBox">
+<p class="text1">请使用当前浏览器底部中间的“<strong>添加书签</strong>”功能进行收藏</p>
+<p class="text2"><strong>糗事百科</strong>-超搞笑的原创糗事笑话分享社区</p>
+</footer>
+
+
+
+<!-- 回到顶部按钮 -->
+<div id="floatBtn">
+<a href="javascript:void()" class="bxtt-pocket hide"></a>
+<a href="javascript:void()" class="game hide" rel="nofollow"></a>
+<a href="/new4/suggest" class="feedback" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'touch-qiushi-list-suggest', 'chick']); "></a>
+<a href="javascript:;" class="goTop" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'touch-qiushi-list-back-top', 'chick']); "></a>
+</div>
+
+
+
+<script type="text/javascript" src="https://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">
+window.broadJson = '[]'
+</script>
+<script type="text/javascript" src="//static.qiushibaike.com/js/dist/touch/v3/text.min.js?v=496928314419cb8e832896cf625c7546"></script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-8780108-10', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+
+
+</body>
+</html>
