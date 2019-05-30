@@ -3,13 +3,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f65ceaee-5013-45be-a845-88dbe4780d06</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
-    <StartupFile>FackMyLifeText.py</StartupFile>
+    <ProjectHome>
+    </ProjectHome>
+    <StartupFile>FuckMyLifeText.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>FackMyLifeText</Name>
+    <Name>FuckMyLifeText</Name>
     <RootNamespace>FackMyLifeText</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -21,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="FackMyLifeText.py" />
+    <Compile Include="FuckMyLifeText.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
